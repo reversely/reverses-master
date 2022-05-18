@@ -8,11 +8,13 @@ body {
 
 h1 {
   font-size: 3em;
+  font: $font-family-header;
   margin: .5em auto;
 }
 
 h2 {
   font-size: 2em;
+  font-family: $font-family-subhead;
   margin: 1em auto;
   text-align: center;
 }

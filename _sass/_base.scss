@@ -7,43 +7,44 @@ body {
 }
 
 h1 {
-  font-size: 3em;
-  font: $font-family-header;
-  margin: .5em auto;
+  font-size: 2em;
+  font-family: $font-family-header;
+  margin: 0em auto;
+  text-align: center;
 }
 
 h2 {
   font-size: 2em;
   font-family: $font-family-subhead;
-  margin: 1em auto;
+  margin: 0em auto;
   text-align: center;
 }
 
 h3 {
-  font-size: 1.5em;
-  margin: 1.3333em auto;
-  text-align: center;
+  font-size: 1.2em;
+  margin: 0em auto;
+  text-align: left;
 }
 
 h4 {
-  font-size: 1.25em;
+  font-size: 1em;
   font-style: italic;
-  margin: 1.875em auto;
-  text-align: center;
+  text-align: right;
+  margin: 0em auto;
+  text-indent: 0em;
+  color: gray;
 }
 
 h5 {
   font-size: 1em;
-  font-style: italic;
-  margin: 2em auto;
-  text-align: center;
+  margin: 0em auto;
+  text-indent: 0em;
 }
 
 h6 {
-  font-size: .875em;
-  font-style: italic;
-  margin: 2.25em auto;
-  text-align: center;
+  font-size: 1em;
+  margin: 0em auto;
+  text-indent: 0em;
 }
 
 em {
@@ -55,7 +56,7 @@ strong {
 }
 
 a {
-  color: $text-color;
+  color: inherit;
 }
 
 a:focus {
@@ -63,10 +64,14 @@ a:focus {
 }
 
 blockquote {
-  margin: 2em auto;
-  opacity: .8;
+  margin: 0.5em;
+  font-family: $font-family-header;
+  font-size: 1.5em;
+  color: $muted-text-color;
+  font: Brandon Grotesque;
+  opacity: 1;
   > * {
-    padding: 0 3em;
+    padding: 0 1em;
   }
 }
 
@@ -117,12 +122,12 @@ figcaption {
 .home {
   max-width: 24em;
   margin: auto;
-  padding: 4em 1em;
+  padding: 1em 1em;
 }
 
 .content-title {
-  font-size: 2em;
-  margin-bottom: 2em;
+  font-size: 1.5em;
+  margin-bottom: 1em;
   text-align: center;
 }
 
@@ -141,23 +146,4 @@ figcaption {
   margin: 0 auto 2em;
   padding: 0 2em;
   text-align: center;
-}
-
-.skip-navigation {
-  background: $brand-color;
-  border: 1px dashed transparent;
-  display: block;
-  font-size: .875em;
-  font-weight: 700;
-  margin-top: -2.625rem;
-  padding: .5rem;
-  text-align: center;
-  text-decoration: none;
-  text-transform: uppercase;
-  &:hover,
-  &:focus {
-    background: lighten($brand-color, 2.5%);
-    border-color: $text-color;
-    margin-top: 0;
-  }
 }

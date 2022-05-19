@@ -1,12 +1,11 @@
 ---
 layout: post
-title: About
+title: Contact
 ---
+Feel free to say hi! <br><br>
 
-> Re:verses hosts conversations with thinkers about the processes that drive their work.
+Email: [reverses.editor@gmail.com](reverses.editor@gmail.com)
 
-Email | [reverses.editor@gmail.com] (reverses.editor@gmail.com)
+Twitter: [@reversesblog](twitter.com/reversesblog)
 
-Twitter | [@reversesblog] (twitter.com/reversesblog)
-
-Instagram | [@reversesblog] (instagram.com/reversesblog)
+Instagram: [@reversesblog](instagram.com/reversesblog)

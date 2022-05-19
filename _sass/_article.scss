@@ -10,7 +10,7 @@
   margin-left: auto;
   margin-right: auto;
   max-width: 36rem;
-  padding: 0 1em;
+  padding: 0 1 em;
 }
 
 .post > h1 {
@@ -22,7 +22,7 @@
 
 .post p {
   text-align: justify;
-  text-indent: 1.5em;
+  text-indent: 0;
   text-justify: inter-word;
 }
 
@@ -38,16 +38,16 @@
 .post dl,
 .post ul,
 .post ol {
-  margin: 1.5em;
+  margin: 0em;
 }
 
 .post li {
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
+  margin-left: 0em;
+  margin-right: 0em;
 }
 
 .post-content:first-child {
-  margin-top: 4em;
+  margin-top: 2em;
 }
 
 .post-meta {

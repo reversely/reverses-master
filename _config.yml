@@ -27,7 +27,6 @@ twitter_username: shereen_lee_
 github_username:  reversely
 
 # Build settings
-remote-theme: reverses-theme
 plugins:
   - jekyll-feed
 

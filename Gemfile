@@ -9,9 +9,6 @@ gem "jekyll-paginate"
 # for feed
 gem "jekyll-feed"
 
-# for theme
-gem "reverses-theme", "~> 0.1.0",
-
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 

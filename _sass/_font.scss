@@ -17,46 +17,59 @@
    font-family: 'Brandon Grotesque';
    font-style: normal;
    font-weight: normal;
-   src: url('#{$asset_url}/fonts/BrandonGrotesque-Black.eot'); /* IE9 Compat Modes */
    src: local('Brandon Grotesque Black'), url('BrandonGrotesque-Black.woff') format('woff'),
-   url('#{$asset_url}/fonts/BrandonGrotesque-Black.eot?#iefix') format('embedded-opentype'),
-   url('#{$asset_url}/fonts/BrandonGrotesque-Black.woff2') format('woff2'), /* Super Modern Browsers */
-   url('#{$asset_url}/fonts/BrandonGrotesque-Black.woff') format('woff'), /* Modern Browsers */
-   url('#{$asset_url}/fonts/BrandonGrotesque-Black.ttf') format('truetype'), /* Safari, Android, iOS */
-   url('#{$asset_url}/fonts/BrandonGrotesque-Black.svg#BrandonGrotesque-Black') format('svg'); /* Legacy iOS */
+   url('#{$asset_url}/fonts/BrandonGrotesque-Black.woff') format('woff'); /* Modern Browsers */
    }
 
    @font-face {
-   font-family: 'Audrey Italic';
-   font-style: normal;
-   font-weight: normal;
-   src: local('Audrey Italic'), url('Audrey-NormalOblique.woff') format('woff');
-   }
+    font-family: 'Audrey Normal';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey Normal'), url('Audrey-Normal.woff') format('woff'),
+    url('#{$asset_url}/fonts/Audrey-Normal.woff') format('woff'); /* Modern Browsers */
+    }
 
-   @font-face {
-   font-family: 'Audrey Medium';
-   font-style: normal;
-   font-weight: normal;
-   src: local('Audrey Medium'), url('Audrey-Medium.woff') format('woff');
-   }
 
-   @font-face {
-   font-family: 'Audrey Medium Oblique';
-   font-style: normal;
-   font-weight: normal;
-   src: local('Audrey Medium Oblique'), url('Audrey-MediumOblique.woff') format('woff');
-   }
+    @font-face {
+    font-family: 'Audrey Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey Italic'), url('Audrey-NormalOblique.woff') format('woff'),
+      url('#{$asset_url}/fonts/Audrey-NormalOblique.woff') format('woff'); /* Modern Browsers */
+    }
 
-   @font-face {
-   font-family: 'Audrey Bold';
-   font-style: normal;
-   font-weight: normal;
-   src: local('Audrey Bold'), url('Audrey-Bold.woff') format('woff');
-   }
 
-   @font-face {
-   font-family: 'Audrey Bold Italic';
-   font-style: normal;
-   font-weight: normal;
-   src: local('Audrey Bold Italic'), url('Audrey-BoldOblique.woff') format('woff');
-   }
+    @font-face {
+    font-family: 'Audrey Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey Medium'), url('Audrey-Medium.woff') format('woff'),
+      url('#{$asset_url}/fonts/Audrey-Medium.woff') format('woff'); /* Modern Browsers */
+    }
+
+
+    @font-face {
+    font-family: 'Audrey Medium Oblique';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey Medium Oblique'), url('Audrey-MediumOblique.woff') format('woff'),
+      url('#{$asset_url}/fonts/Audrey-MediumOblique.woff') format('woff'); /* Modern Browsers */
+    }
+
+
+    @font-face {
+    font-family: 'Audrey Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey Bold'), url('Audrey-Bold.woff') format('woff'),
+      url('#{$asset_url}/fonts/Audrey-Bold.woff') format('woff'); /* Modern Browsers */
+    }
+
+
+    @font-face {
+    font-family: 'Audrey Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey Bold Italic'), url('Audrey-BoldOblique.woff') format('woff'),url(),url(),url(),
+      url('#{$asset_url}/fonts/BrandonGrotesque-Black.woff') format('woff'), /* Modern Browsers */;
+    }

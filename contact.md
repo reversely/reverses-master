@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Contact
+image: /assets/images/books/Contact.jpg
 ---
 Feel free to say hi! <br><br>
 

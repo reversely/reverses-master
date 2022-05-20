@@ -148,3 +148,13 @@ figcaption {
   padding: 0 2em;
   text-align: center;
 }
+
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: #adc0d8;
+}
+
+::selection {
+  color: white;
+  background: #adc0d8;
+}

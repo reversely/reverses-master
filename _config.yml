@@ -22,8 +22,7 @@ title: Reverses
 email: reverses.editor@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 Stories about process.
-baseurl: "https://github.com/reversely/reverses-master" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "reverses.ca" # the subpath of your site, e.g. /blog
 twitter_username: shereen_lee_
 github_username:  reversely
 
@@ -32,7 +31,9 @@ theme: reverses-theme
 plugins:
   - jekyll-feed
 
+#show excerpts until first comma
 show_excerpts: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

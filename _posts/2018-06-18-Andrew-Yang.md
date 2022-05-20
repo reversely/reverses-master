@@ -4,7 +4,7 @@ title: "Andrew Yang"
 author: "Shereen Lee"
 image: /assets/images/Andrew-Yang.jpg
 ---
-I reached out to Andrew Yang’s campaign manager as a writer for the <em>Taipei Times</em> in June 2018, a few months after Yang had launched his <a href ="https://www.washingtonpost.com/news/magazine/wp/2019/06/10/feature/random-man-runs-for-president-the-odd-saga-of-andrew-yang-explained/">long-shot presidential campaign</a>. I wanted to talk to Yang about his then-radical policies regarding <a href ="https://basicincome.stanford.edu/about/what-is-ubi/">universal basic income</a>, the idea that citizens should be given a base minimum income regardless of employment that would help ensure their basic survival needs were met. I also wanted to take a look into his identity as a Taiwanese-American, and see how his racial and political identities influenced each others.
+I reached out to Andrew Yang’s campaign manager as a writer for the <em>Taipei Times</em> in June 2018, a few months after Yang had launched his <a href ="https://www.washingtonpost.com/news/magazine/wp/2019/06/10/feature/random-man-runs-for-president-the-odd-saga-of-andrew-yang-explained/">long-shot presidential campaign</a>. I wanted to talk to Yang about his then-radical policies regarding <a href ="https://basicincome.stanford.edu/about/what-is-ubi/">universal basic income</a>, the idea that citizens should be given a base minimum income regardless of employment that would help ensure their basic survival needs were met. I also wanted to take a look into his identity as a Taiwanese-American, and see how his racial and political identities influenced each other.
 
 <br>He’s still clearly figuring out his stances and positioning in this conversation. When I asked him why he wanted to serve as a representative for UBI in politics, he even told me he would have supported another candidate, if any had popped up. “It was clear to me that I was going to be the only person,” he said.
 
@@ -12,9 +12,9 @@ I reached out to Andrew Yang’s campaign manager as a writer for the <em>Taipei
 
 <br>That’s not to say I agreed with him on all of what he said in our conversation, especially as unrehearsed as he had been at this stage of his candidacy. I felt that he had accurately identified many compelling societal problems, without providing much of a case for why UBI specifically was America’s best shot at recovery. (This was one of the first times I had felt ideological pushback to an interviewee’s positions on a personal level, and I also visibly struggle here with how aggressive I want to be.)
 
-<br>Yet, in retrospect, I can't help but sympathize with Yang. He's a classic representation of the amorphous dread and hope that has been seeping into the American political consciousness ever since the 2016 election, but not yet inured to it as we are now in 2022. “I developed a real sense of anxiety as to what the future holds,” Yang said. The interview is full of intriguing defenses, and a portrait of a presidential candidate who doesn't yet know he's on the precipice of something bigger.
+<br>Yet, in retrospect, I can't help but sympathize with Yang. He's a classic representation of the amorphous dread and hope that has been seeping into the American political consciousness ever since the 2016 election, but not yet inured to that particular set of feelings as we are now in 2022. “I developed a real sense of anxiety as to what the future holds,” Yang said. The interview is full of intriguing defenses from a new candidate who doesn't yet know how his views will go on to shape America.
 
-<br>Here’s a transcript of my Skype call with Andrew Yang on June 18, 2018, lightly edited for clarity.
+<br>Here’s a transcript of my Skype call with Andrew Yang on June 18, 2018, lightly edited for clarity.<br>
 <h4>May 19, 2022</h4><br>
 
 <img src="/assets/images/divider.svg" alt="re:verses" style="width:140px;">

@@ -2,7 +2,7 @@
 layout: post
 title: "Andrew Yang"
 author: "Shereen Lee"
-image: /assets/images/books/Andrew-Yang.jpg
+image: /assets/images/Andrew-Yang.jpg
 ---
 I reached out to Andrew Yang’s campaign manager as a writer for the <em>Taipei Times</em> in June 2018, a few months after Yang had launched his <a href ="https://www.washingtonpost.com/news/magazine/wp/2019/06/10/feature/random-man-runs-for-president-the-odd-saga-of-andrew-yang-explained/">long-shot presidential campaign</a>. I wanted to talk to Yang about his then-radical policies regarding <a href ="https://basicincome.stanford.edu/about/what-is-ubi/">universal basic income</a>, the idea that citizens should be given a base minimum income regardless of employment that would help ensure their basic survival needs were met. I also wanted to take a look into his identity as a Taiwanese-American, and see how his racial and political identities influenced each others.
 

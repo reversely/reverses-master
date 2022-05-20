@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-image: /assets/images/books/About.jpg
+image: /assets/images/About.jpg
 ---
 
 <h3>Re:verses hosts conversations with thinkers about the processes that drive their work.</h3><br>

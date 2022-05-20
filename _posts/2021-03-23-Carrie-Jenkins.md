@@ -2,7 +2,7 @@
 layout: post
 title: "Carrie Jenkins"
 author: "Shereen Lee"
-image: /assets/images/Reverses-Dark.jpg
+image: /assets/images/Carrie-Jenkins.jpg
 ---
 
 <p><strong>In the second half of <em>Victoria Sees It</em>, Victoria recounts Humberton as saying that &ldquo;the base layer of truth is what matters, even in fiction. You can make up whatever else you want, but if you lose sight of that fundamental level, the basement of your world, everything you build on top of it is wrong.&rdquo; What would you consider the base truth of <em>Victoria Sees It</em> that you want readers to take away? Has the base truth changed over your revision process?</strong><br> I think the one of the central ones is this gendered take on an individual's struggles with mental health, and the risk that that person is not seen. And that her story is not heard. And that she is not understood, so we get this very isolated viewpoint. There's a deeply gendered and classed aspect to her isolation that intersects with her attempts to thrive in an environment where she is just not very welcome.  She doesn't get on very well, in academia, socially speaking; she doesn't really have any friends in her personal life either. There's something I'm trying to say about the way that Victoria is able to see things that other people cannot or will not see and understand them in ways that other people can't or will not understand them. But it would be very easy to dismiss her as being crazy. And I'm hoping one of the ways I'm hoping for this book to resonate with reality is in its exploration of madness, and especially women's madness, the insights or the wisdom that can sometimes be contained within that.</p><br>

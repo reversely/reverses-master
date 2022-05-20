@@ -139,7 +139,7 @@ figcaption {
   white-space: nowrap;
   text-transform: uppercase;
   .post-link & {
-    padding: .5em 0;
+    padding: 0.5em;
   }
 }
 
@@ -157,4 +157,15 @@ figcaption {
 ::selection {
   color: white;
   background: #adc0d8;
+}
+
+.firstcharacter {
+  color: $brand-color;
+  float: left;
+  font-family: $font-family-header;
+  font-size: 75px;
+  line-height: 55px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
 }

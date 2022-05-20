@@ -1,5 +1,5 @@
 {% capture excerpt %}
-  {{ post.excerpt | replace: "<p>", "" | replace: "</p>", "" }}
+  {{ post.excerpt | strip_html | replace: "<p>", "" | replace: "</p>", "" }}
 {% endcapture %}
 
 {% if site.excerpt_length %}

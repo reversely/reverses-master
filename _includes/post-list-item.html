@@ -3,7 +3,7 @@
     <div class="post-link__heading">
       {% unless post.title == "" %}
           <h3 class="post-link__title">
-            {{ post.title }}
+            {{ post.title | strip_html }}
           </h3>
       {% else %}
         {% include post-excerpt.html %}

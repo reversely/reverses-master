@@ -7,6 +7,8 @@ $asset_url: '{{ '/assets' | absolute_url }}';
 
 @import
   "reset",
+  "book",
+  "book-padded",
   "variables",
   "syntax-highlighting",
   "mixins",

@@ -3,21 +3,6 @@ layout: page
 title: "Reverse Theme"
 ---
 
-### Credits
-
-The theme credits that appear at the bottom of each page can be turned off by including the following line in your site's `_config.yml` file:
-
-```
-hide_credits: true
-```
-
-### Search
-
-The theme uses a custom DuckDuckGo Search Form that can be turned off by including the following line in your site's `_config.yml` file:
-
-```
-hide_search: true
-```
 
 ### Font
 

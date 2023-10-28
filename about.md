@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
+title: about
 image: /assets/images/About.jpg
 ---
 
-A personal, unindexed archive of Shereen's unfiltered conversations with interviewees.
+An unindexed archive of Shereen's conversations with interviewees + cat photos!

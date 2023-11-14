@@ -29,8 +29,7 @@ After a series of devastating earthquakes in Türkiye and Syria, a group of UBC 
 <p>
 <a href="https://ex-puritan.ca/conversation-jenkins-lee-2021/">
 <u>A Conversation With Carrie Jenkins</u>
-</a>
-<span>, The&nbsp;</span><em><span>Ex-Puritan</span></em>
+</a>, The <em><span>Ex-Puritan</span></em>
 </p>
 <p>
 <span>An interview with philosopher Carrie Jenkins about madness, the unknowabilities in fictional characters, and Jenkins&rsquo; first novel,&nbsp;</span>

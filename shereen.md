@@ -12,9 +12,7 @@ permalink: /shereen.html
 <p><br /></p>
 <p>
 <a href="https://user-yinucac.cld.bz/Innovation-July-August-2023/26/">
-<u>Building Up to Net Zero</u>
-</a>, <em><span>Innovation</span></em><span>&nbsp;Magazine (Engineers and Geoscientists BC)</span>
-</p>
+<u>Building Up to Net Zero</u></a>, <em>Innovation</em> Magazine (Engineers and Geoscientists BC)</p>
 <p><span>A story following an engineering team&rsquo;s two-year journey to construct a low-embodied carbon house, and what their successes and challenges mean for the future of net-zero construction.</span></p>
 <br/>
 <p>
@@ -38,9 +36,7 @@ After a series of devastating earthquakes in Türkiye and Syria, a group of UBC 
 <p><br /></p>
 <p>
 <a hresf="https://prismmagazine.ca/2021/09/09/and-still-we-gallop-into-it-an-interview-with-kaveh-akbar/">
-<u>And Still, We Gallop Into It</u>
-</a>
-,<em>PRISM</em><span>&nbsp;Magazine</span>
+<u>And Still, We Gallop Into It</u></a>, <em>PRISM</em><span>&nbsp;Magazine</span>
 </p>
 <p>
 <span>An interview with Kaveh Akbar about the nature of revelations, writing through a pandemic, and Akbar&rsquo;s poetry collection,&nbsp;</span><em>Pilgrim Bell</em>.

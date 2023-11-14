@@ -10,7 +10,7 @@ permalink: /shereen.html
 <p>Selected Clips<p>
 <p><br></p>
 <p><a href="https://user-yinucac.cld.bz/Innovation-July-August-2023/26/"><u><span style="color:#1155cc;font-size:11pt;">Building Up to Net Zero</span></u></a><span style="font-size:11pt;">,&nbsp;</span><em><span style="font-size:11pt;">Innovation</span></em><span style="font-size:11pt;">&nbsp;Magazine (Engineers and Geoscientists BC)</span></p>
-<p><span style="font-size:11pt;">A story following an engineering team&rsquo;s two-year journey to construct a low-embodied carbon house, and what their successes and challenges mean for the future of net-zero construction.</span></p>
+<p><span style="font-size:11pt;">A story following an engineering team&rsquo;s two-year journey to construct a low-embodied carbon house, and what their successes and challenges mean for the future of net-zero construction.</span></p><br>
 <p><a href="https://hakaimagazine.com/article-short/coastal-job-hovercraft-operator/"><u><span style="color:#1155cc;font-size:11pt;">Coastal Job: Hovercraft Operator</span></u></a><span style="font-size:11pt;">,&nbsp;</span><em><span style="font-size:11pt;">Hakai</span></em><span style="font-size:11pt;">&nbsp;Magazine</span></p>
 <p><span style="font-size:11pt;">An as-told-to story about Ian Cragg, who pilots and navigates a hovercraft as a first officer for the Canadian Coast Guard.</span></p>
 <p><br></p>

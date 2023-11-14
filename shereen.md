@@ -2,15 +2,14 @@
 layout: post
 title: About Shereen
 image: /assets/images/About.jpg
+permalink: /shereen.html
 ---
-
-<h3><span style="font-size:11pt;">Past Work</span></h3>
+<h3>I'm a writer and mechanical engineer based in Prince Rupert, BC.</h3>
+<p>I've written for Engineers and Geoscientists BC's <i>Innovation Magazine</i>, <i>Hakai</i> Magazine, the <i>Taipei Times</i>, the <i>Ploughshares</i> blog, and other publications. Areas of interest include <br>
+<h3><span style="font-size:11pt;">Selected Clips</span></h3>
 <p><br></p>
-<p><strong><span style="font-size:11pt;">Features</span></strong></p>
 <p><a href="https://user-yinucac.cld.bz/Innovation-July-August-2023/26/"><u><span style="color:#1155cc;font-size:11pt;">Building Up to Net Zero</span></u></a><span style="font-size:11pt;">,&nbsp;</span><em><span style="font-size:11pt;">Innovation</span></em><span style="font-size:11pt;">&nbsp;Magazine (Engineers and Geoscientists BC)</span></p>
 <p><span style="font-size:11pt;">A story following an engineering team&rsquo;s two-year journey to construct a low-embodied carbon house, and what their successes and challenges mean for the future of net-zero construction.</span></p>
-<p><br></p>
-<p><strong><span style="font-size:11pt;">Interviews &amp; Profiles</span></strong></p>
 <p><a href="https://hakaimagazine.com/article-short/coastal-job-hovercraft-operator/"><u><span style="color:#1155cc;font-size:11pt;">Coastal Job: Hovercraft Operator</span></u></a><span style="font-size:11pt;">,&nbsp;</span><em><span style="font-size:11pt;">Hakai</span></em><span style="font-size:11pt;">&nbsp;Magazine</span></p>
 <p><span style="font-size:11pt;">An as-told-to story about Ian Cragg, who pilots and navigates a hovercraft as a first officer for the Canadian Coast Guard.</span></p>
 <p><br></p>

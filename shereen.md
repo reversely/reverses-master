@@ -4,11 +4,10 @@ title: About Shereen
 image: /assets/images/About.jpg
 permalink: /shereen.html
 ---
-<h3><b>Shereen Lee is a writer and mechanical engineer based in Prince Rupert, BC.</b> Her work appears in Engineers and Geoscientists BC's <em>Innovation Magazine</em>, <em>Hakai</em> Magazine, the <em>Taipei Times</em>, the <em>Ploughshares</em> blog, and other publications. Her writing focuses on new creations and their stewards.<br><br></h3>
-
-<img src="/assets/images/divider.svg" alt="re:verses" style="width:140px;">
+<h3><b>I'm a science writer who works in engineering by day.</b> My writing appears in Engineers and Geoscientists BC's <em>Innovation Magazine</em>, <em>Hakai</em> Magazine, the <em>Taipei Times</em>, the <em>Ploughshares</em> blog, and other publications. I write most often about new creations and their stewards.<br><br></h3>
 
 <p><h1>Selected Clips</h1></p>
+<img src="/assets/images/divider.svg" alt="re:verses" style="width:140px;">
 <p></p>
 <p><br /></p>
 <p>
@@ -18,7 +17,7 @@ permalink: /shereen.html
 <span>,&nbsp;</span><em><span>Innovation</span></em><span>&nbsp;Magazine (Engineers and Geoscientists BC)</span>
 </p>
 <p><span>A story following an engineering team&rsquo;s two-year journey to construct a low-embodied carbon house, and what their successes and challenges mean for the future of net-zero construction.</span></p>
-<br />
+<br/>
 <p>
 <a href="https://hakaimagazine.com/article-short/coastal-job-hovercraft-operator/">
 <u><span>Coastal Job: Hovercraft Operator</span></u>
@@ -26,7 +25,10 @@ permalink: /shereen.html
 <span>,&nbsp;</span><em><span>Hakai</span></em><span>&nbsp;Magazine</span>
 </p>
 <p><span>An as-told-to story about Ian Cragg, who pilots and navigates a hovercraft as a first officer for the Canadian Coast Guard.</span></p>
-<p><br /></p>
+<p><br>
+<a href="https://ubyssey.ca/science/what-happens-when-the-big-one-hits-lessons-from-the-2023-t%C3%BCrkiye-syria-earthquake/">
+<u>What can BC learn from the 2023 Türkiye-Syria earthquake?</u></a></p>, <em>The Ubyssey</em><br>
+After a series of devastating earthquakes in Türkiye and Syria, a group of UBC researchers visited the affected area to assess the damage. Their findings: for BC to avoid the same fate when the "Big One" hits, much more effort needs to be poured into seismic protection.<br>
 <p>
 <a href="https://ex-puritan.ca/conversation-jenkins-lee-2021/">
 <u><span>A Conversation With Carrie Jenkins</span></u>

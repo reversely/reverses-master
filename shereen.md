@@ -4,7 +4,7 @@ title: About Shereen
 image: /assets/images/About.jpg
 permalink: /shereen.html
 ---
-<h3><b>Shereen Lee is a science writer who works in engineering by day.</b> Her writing appears in Engineers and Geoscientists BC's <em>Innovation Magazine</em>, <em>Hakai</em> Magazine, the <em>Taipei Times</em>, the <em>Ploughshares</em> blog, and other publications. She writes most often about new creations and their stewards.<br><br></h3>
+<h3><b>Shereen Lee is a science writer who works in mechanical engineering by day.</b> Her writing appears in Engineers and Geoscientists BC's <em>Innovation Magazine</em>, <em>Hakai</em> Magazine, the <em>Taipei Times</em>, the <em>Ploughshares</em> blog, and other publications. She writes most often about new creations and their stewards.<br><br></h3>
 <br>
 <p><h1>Selected Clips</h1></p>
 <img src="/assets/images/divider.svg" alt="re:verses" style="width:140px;">

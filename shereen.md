@@ -12,7 +12,7 @@ permalink: /shereen.html
 <p><br /></p>
 <p>
 <a href="https://user-yinucac.cld.bz/Innovation-July-August-2023/26/">
-<u><span>Building Up to Net Zero</span></u>
+<u>Building Up to Net Zero</u>
 </a>
 <span>,&nbsp;</span><em><span>Innovation</span></em><span>&nbsp;Magazine (Engineers and Geoscientists BC)</span>
 </p>
@@ -20,7 +20,7 @@ permalink: /shereen.html
 <br/>
 <p>
 <a href="https://hakaimagazine.com/article-short/coastal-job-hovercraft-operator/">
-<u><span>Coastal Job: Hovercraft Operator</span></u>
+<u>Coastal Job: Hovercraft Operator</u>
 </a>
 <span>,&nbsp;</span><em><span>Hakai</span></em><span>&nbsp;Magazine</span>
 </p>
@@ -31,29 +31,28 @@ permalink: /shereen.html
 After a series of devastating earthquakes in Türkiye and Syria, a group of UBC researchers visited the affected area to assess the damage. Their findings: for BC to avoid the same fate when the "Big One" hits, much more effort needs to be poured into seismic protection.<br>
 <p>
 <a href="https://ex-puritan.ca/conversation-jenkins-lee-2021/">
-<u><span>A Conversation With Carrie Jenkins</span></u>
+<u>A Conversation With Carrie Jenkins</u>
 </a>
 <span>, The&nbsp;</span><em><span>Ex-Puritan</span></em>
 </p>
 <p>
 <span>An interview with philosopher Carrie Jenkins about madness, the unknowabilities in fictional characters, and Jenkins&rsquo; first novel,&nbsp;</span>
-<em><span>Victoria Sees It</span></em><span>.</span>
+<em>Victoria Sees It</em>.
 </p>
 <p><br /></p>
 <p>
-<a href="https://prismmagazine.ca/2021/09/09/and-still-we-gallop-into-it-an-interview-with-kaveh-akbar/">
+<a hresf="https://prismmagazine.ca/2021/09/09/and-still-we-gallop-into-it-an-interview-with-kaveh-akbar/">
 <u>And Still, We Gallop Into It</u>
 </a>
-<span>,&nbsp;</span><em><span>PRISM</span></em><span>&nbsp;Magazine</span>
+,<em>PRISM</em><span>&nbsp;Magazine</span>
 </p>
 <p>
-<span>An interview with Kaveh Akbar about the nature of revelations, writing through a pandemic, and Akbar&rsquo;s poetry collection,&nbsp;</span><em>Pilgrim Bell</em>
-<span>.</span>
+<span>An interview with Kaveh Akbar about the nature of revelations, writing through a pandemic, and Akbar&rsquo;s poetry collection,&nbsp;</span><em>Pilgrim Bell</em>.
 </p>
 <p><br /></p>
 <p>
 <a href="https://theadroitjournal.org/issue-twenty-two-a-conversation-with-tracy-k-smith-the-adroit-journal/">
-<u><span>A Conversation With Tracy K. Smith</span></u>
+<u>A Conversation With Tracy K. Smith</u>
 </a>
 <span>, The&nbsp;</span><em><span>Adroit</span></em><span>&nbsp;Journal</span>
 </p>

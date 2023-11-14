@@ -13,7 +13,9 @@ I found my interview with Smith  very difficult to transcribe. Not because the r
 
 <br>Listening to her, it felt as if all of her words were poems waiting to be shaped. There are clearly lines of thought that she’s been dwelling on, circling in on one of those more sharply-honed emotions I might see in print two or three years later.<br>
 
-<br> Our conversation, a version of which was previously published in <en>The Adroit Journal</en>, is documented below.
+<br> Our conversation, a slightly shorter version of which was previously published in <en>The Adroit Journal</en>, is documented below.
+
+<img src="/assets/images/divider.svg" alt="re:verses" style="width:140px;">
 
 <strong>What’s one revelation that’s shaped your writing?</strong>
 <br>I went through this really awful writer’s block when I was 22—maybe 24—I was in a really competitive writers’ workshop, and with everything I submitted, it felt like there would be someone in the room who would give it back to me with a big “X” through it. At that point, I stopped bringing poems to class—because that kind of feedback hurts! I stopped writing for months, but I needed to make something, so I took a black-and-white-photography class, which became a powerful alternative to language for me. I realized that you can tell a story with images. And I learned how to look at things. <br>

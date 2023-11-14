@@ -1,13 +1,15 @@
 ---
 layout: post
 title: About Shereen
-image: /assets/images/Reverses.jpg
+image: /assets/images/About.jpg
 permalink: /shereen.html
 ---
-<h3><b>Shereen Lee is a writer and mechanical engineer based in Prince Rupert, BC.</b><br>
-<p>Her work appears in Engineers and Geoscientists BC's <em>Innovation Magazine</em>, <em>Hakai</em> Magazine, the <em>Taipei Times</em>, the <em>Ploughshares</em> blog, and other publications. Her writing focuses on new creations and their stewards.<br><br></h3>
+<h3><b>Shereen Lee is a writer and mechanical engineer based in Prince Rupert, BC.</b> Her work appears in Engineers and Geoscientists BC's <em>Innovation Magazine</em>, <em>Hakai</em> Magazine, the <em>Taipei Times</em>, the <em>Ploughshares</em> blog, and other publications. Her writing focuses on new creations and their stewards.<br><br></h3>
 
-<p>Selected Clips</p>
+<img src="/assets/images/divider.svg" alt="re:verses" style="width:140px;">
+
+
+<p><h1>Selected Clips</h1></p>
 <p></p>
 <p><br /></p>
 <p>

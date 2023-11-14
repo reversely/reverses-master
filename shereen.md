@@ -27,7 +27,7 @@ permalink: /shereen.html
 <p><span>An as-told-to story about Ian Cragg, who pilots and navigates a hovercraft as a first officer for the Canadian Coast Guard.</span></p>
 <p><br>
 <a href="https://ubyssey.ca/science/what-happens-when-the-big-one-hits-lessons-from-the-2023-t%C3%BCrkiye-syria-earthquake/">
-<u>What can BC learn from the 2023 Türkiye-Syria earthquake?</u></a></p>, <em>The Ubyssey</em><br>
+<u>What can BC learn from the 2023 Türkiye-Syria earthquake?</u></a>, <em>The Ubyssey</em><br></p>
 After a series of devastating earthquakes in Türkiye and Syria, a group of UBC researchers visited the affected area to assess the damage. Their findings: for BC to avoid the same fate when the "Big One" hits, much more effort needs to be poured into seismic protection.<br>
 <p>
 <a href="https://ex-puritan.ca/conversation-jenkins-lee-2021/">

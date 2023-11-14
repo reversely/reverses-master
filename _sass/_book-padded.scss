@@ -33,7 +33,7 @@
 
 .book-padded > :first-child {
   position: absolute;
-  background: ##0b1930;
+//  background: ##0b1930;
   width: 200px;
   height: 300px;
   border-top-right-radius: 3px;
@@ -44,8 +44,8 @@
 .book-padded::before {
   content: ' ';
   background: #fff;
-  height: calc(270px);
-  width: 30px;
+  height: calc(270px- 2 * 3px);
+  width: 50px;
   top: 3px;
   position: absolute;
   transform: translateX(220px)

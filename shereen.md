@@ -8,7 +8,6 @@ permalink: /shereen.html
 
 <img src="/assets/images/divider.svg" alt="re:verses" style="width:140px;">
 
-
 <p><h1>Selected Clips</h1></p>
 <p></p>
 <p><br /></p>
@@ -41,7 +40,7 @@ permalink: /shereen.html
 <p><br /></p>
 <p>
 <a href="https://prismmagazine.ca/2021/09/09/and-still-we-gallop-into-it-an-interview-with-kaveh-akbar/">
-<u><span>And Still, We Gallop Into It: A Conversation With Kaveh Akbar</span></u>
+<u>And Still, We Gallop Into It</u>
 </a>
 <span>,&nbsp;</span><em><span>PRISM</span></em><span>&nbsp;Magazine</span>
 </p>

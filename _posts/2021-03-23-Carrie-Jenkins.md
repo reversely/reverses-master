@@ -5,7 +5,7 @@ author: "Shereen Lee"
 image: /assets/images/Carrie-Jenkins.jpg
 ---
 
-Carrie Jenkins is a public philosopher, scholar, and author who has received critical acclaim for her book [<em>What Love Is and What It Could Be</em>](https://www.basicbooks.com/titles/carrie-jenkins/what-love-is/9780465098866/) (Basic Books, 2017). Her debut novel, [<em>Victoria Sees It</em>](https://www.penguinrandomhouse.ca/books/612217/victoria-sees-it-by-carrie-jenkins/9780771049279) (Penguin Random House Canada, 2021), is a circuitous and gripping exploration of femininity and madness.<br>
+Carrie Jenkins is a public philosopher, scholar, and author of two books, [<em>What Love Is and What It Could Be</em>](https://www.basicbooks.com/titles/carrie-jenkins/what-love-is/9780465098866/) and [<em>Victoria Sees It</em>](https://www.penguinrandomhouse.ca/books/612217/victoria-sees-it-by-carrie-jenkins/9780771049279).
 
 In March 2021, a few weeks before the release of her novel, I had the chance to speak to Jenkins over Zoom. She said something striking in our conversation which I still think about often today: "There's a sense in which the only way that I can know the characters is via my sense of who and what they are."
 

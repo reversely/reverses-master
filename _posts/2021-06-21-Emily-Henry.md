@@ -5,7 +5,7 @@ author: "Shereen Lee"
 image: /assets/images/Emily-Henry.jpg
 ---
 
-<strong>Emily Henry is one of the warmest, most insightful authors I’ve had the pleasure to meet. I spoke to her on June 24, 2021, right after her sixth book, People We Meet on Vacation, had become a #1 New York Times bestseller. Our conversation covered literary communities, unwinding the stigma against romance novels, and the bane of consumer capitalism. It also went deep into the craft behind her romance novels, on how Henry gets her ideas, her writing process, and how novel covers shape a reader’s conception of a book.</strong>
+<strong>Emily Henry is the <i>New York Times</i>-bestselling author of four novels. She's also a witty and deeply warm conversationalist! Our conversation in 2021 covered Henry's approaches to character conflict, the bane of consumer capitalism, and the alchemical combination of truth and fiction that powers a writer's imagination. </strong>
 
 <img src="/assets/images/divider.svg" alt="re:verses" style="width:140px;">
 

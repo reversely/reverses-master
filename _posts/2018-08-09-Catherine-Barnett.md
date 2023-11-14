@@ -2,7 +2,7 @@
 layout: post
 title: "Catherine Barnett"
 author: "Shereen Lee"
-image: \assets\images\Catherine-Barnett.jpg
+image: /assets/images/Catherine-Barnett.jpg
 ---
 
 Catherine Barnett is the author of three books. I was honoured to speak to her about her 2018 book, <i>Human Hours</i>, shortly after its publication. Among other topics, our conversation drifted across topics such as depicting memory in poetry, the ineffability of lanugage (!), and a poet's target audience.

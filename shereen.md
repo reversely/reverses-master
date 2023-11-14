@@ -13,22 +13,19 @@ permalink: /shereen.html
 <p>
 <a href="https://user-yinucac.cld.bz/Innovation-July-August-2023/26/">
 <u>Building Up to Net Zero</u>
-</a>
-<span>,&nbsp;</span><em><span>Innovation</span></em><span>&nbsp;Magazine (Engineers and Geoscientists BC)</span>
+</a>, <em><span>Innovation</span></em><span>&nbsp;Magazine (Engineers and Geoscientists BC)</span>
 </p>
 <p><span>A story following an engineering team&rsquo;s two-year journey to construct a low-embodied carbon house, and what their successes and challenges mean for the future of net-zero construction.</span></p>
 <br/>
 <p>
 <a href="https://hakaimagazine.com/article-short/coastal-job-hovercraft-operator/">
-<u>Coastal Job: Hovercraft Operator</u>
-</a>
-<span>,&nbsp;</span><em><span>Hakai</span></em><span>&nbsp;Magazine</span>
+<u>Coastal Job: Hovercraft Operator</u></a>, <em><span>Hakai</span></em><span>&nbsp;Magazine</span>
 </p>
 <p><span>An as-told-to story about Ian Cragg, who pilots and navigates a hovercraft as a first officer for the Canadian Coast Guard.</span></p>
 <p><br>
 <a href="https://ubyssey.ca/science/what-happens-when-the-big-one-hits-lessons-from-the-2023-t%C3%BCrkiye-syria-earthquake/">
 <u>What can BC learn from the 2023 Türkiye-Syria earthquake?</u></a>, <em>The Ubyssey</em><br></p>
-After a series of devastating earthquakes in Türkiye and Syria, a group of UBC researchers visited the affected area to assess the damage. Their findings: for BC to avoid the same fate when the "Big One" hits, much more effort needs to be poured into seismic protection.<br>
+After a series of devastating earthquakes in Türkiye and Syria, a group of UBC researchers visited the affected area to assess the damage. Their findings: for BC to avoid the same fate when the "Big One" hits, much more effort needs to be poured into seismic protection.<br><br>
 <p>
 <a href="https://ex-puritan.ca/conversation-jenkins-lee-2021/">
 <u>A Conversation With Carrie Jenkins</u>

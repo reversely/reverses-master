@@ -1,7 +1,7 @@
 ---
 layout: post
 title: about
-image: /assets\images\Reverses.jpg
+image: \assets\images\Reverses.jpg
 ---
 
-An unindexed archive of Shereen's conversations with interviewees + cat photos!
+Re:verses is a project devoted to conversations with authors and thinkers, maintained by Shereen Lee.

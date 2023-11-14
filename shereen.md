@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Shereen
-image: /assets/images/About.jpg
+image: \assets\images\Reverses.jpg
 permalink: /shereen.html
 ---
 <h3>Shereen Lee is a writer and mechanical engineer based in Prince Rupert, BC.</h3>

@@ -2,7 +2,7 @@
 layout: post
 title: "Catherine Barnett"
 author: "Shereen Lee"
-image: /assets/images/Catherine-Barnett.jpg
+image: \assets\images\Catherine-Barnett.jpg
 ---
 
 <strong>In your latest book, Human Hours, you’re constantly reexamining memories from different vantage points — memories from different points of the speaker’s pasts, which come to different conclusions of what those pasts mean. It made me wonder, how has your relationship with the past changed over time?</strong>

@@ -5,8 +5,9 @@ image: /assets/images/About.jpg
 permalink: /shereen.html
 ---
 <h3>Shereen Lee is a writer and mechanical engineer based in Prince Rupert, BC.</h3>
-<p>Her work appears in Engineers and Geoscientists BC's <i>Innovation Magazine</i>, <i>Hakai</i> Magazine, the <i>Taipei Times</i>, the <i>Ploughshares</i> blog, and other publications.<br>
-<h3>Selected Clips</h3>
+<p>Her work appears in Engineers and Geoscientists BC's <em>Innovation Magazine</em>, <em>Hakai</em> Magazine, the <em>Taipei Times</em>, the <em>Ploughshares</em> blog, and other publications. Her writing focuses on new creations and their stewards. <br><br>
+
+<p>Selected Clips<p>
 <p><br></p>
 <p><a href="https://user-yinucac.cld.bz/Innovation-July-August-2023/26/"><u><span style="color:#1155cc;font-size:11pt;">Building Up to Net Zero</span></u></a><span style="font-size:11pt;">,&nbsp;</span><em><span style="font-size:11pt;">Innovation</span></em><span style="font-size:11pt;">&nbsp;Magazine (Engineers and Geoscientists BC)</span></p>
 <p><span style="font-size:11pt;">A story following an engineering team&rsquo;s two-year journey to construct a low-embodied carbon house, and what their successes and challenges mean for the future of net-zero construction.</span></p>

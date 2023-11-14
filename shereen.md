@@ -44,7 +44,7 @@ permalink: /shereen.html
 <span>,&nbsp;</span><em><span>PRISM</span></em><span>&nbsp;Magazine</span>
 </p>
 <p>
-<span>An interview with Kaveh Akbar about the nature of revelations, writing through a pandemic, and Akbar&rsquo;s poetry collection,&nbsp;</span><em><span style="font-size: 11pt;">Pilgrim Bell</span></em>
+<span>An interview with Kaveh Akbar about the nature of revelations, writing through a pandemic, and Akbar&rsquo;s poetry collection,&nbsp;</span><em>Pilgrim Bell</em>
 <span>.</span>
 </p>
 <p><br /></p>
